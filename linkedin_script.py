@@ -1,5 +1,4 @@
 import os
-import pandas as pd
 from dotenv import load_dotenv
 import time
 import json
@@ -13,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 import logging
 
-load_dotenv('/Users/user/Desktop/linkedin_scrapper/linkedin_script/.env')
+load_dotenv('/Users/parivat/Desktop/scripts/linkedin_scrapper/.env')
 
 BASE_URL = os.getenv(f"BASE_URL")
 SCROLL_PAUSE_TIME = float(os.getenv(f"SCROLL_PAUSE_TIME", 1.0))
@@ -22,11 +21,11 @@ DELAY_BETWEEN_ACTIONS = int(os.getenv(f"DELAY_BETWEEN_ACTIONS", 5))
 LOG_FILE = os.getenv(f"LOG_FILE")
 
 options = Options()
-# options.add_argument("--headless")
-# options.add_argument("--disable-gpu")
-# options.add_argument("--no-sandbox")
-# options.add_argument("--disable-dev-shm-usage")
-# options.add_argument("--window-size=1920,1080")
+options.add_argument("--headless")
+options.add_argument("--disable-gpu")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--window-size=1920,1080")
 
 log_dir = os.path.dirname(LOG_FILE)
 
@@ -95,7 +94,7 @@ class LINKEDIN(object):
 
     def automatic_login(self):
         try:
-            self.driver.get("https://www.linkedin.com")
+            self.driver.get(BASE_URL)
             try:
                 email_sign_in_button = self.wait.until(EC.presence_of_element_located((By.XPATH, "//a[contains(text(), 'Sign in with email')]")))
                 email_sign_in_button.click()
@@ -125,7 +124,7 @@ class LINKEDIN(object):
 
     def manual_login(self):
         try:
-            self.driver.get("https://www.linkedin.com")
+            self.driver.get(BASE_URL)
             logger.info("Please log in manually. Waiting for you to complete the login process.")
             try:
                 self.login_wait.until(
@@ -196,7 +195,7 @@ class LINKEDIN(object):
     def add_connection(self, connections_list):
         for connection in connections_list:
             try:
-                profile_url = f"https://www.linkedin.com/in/{connection}/"
+                profile_url = f"{BASE_URL}/in/{connection}/"
                 self.driver.get(profile_url)
                 logger.info(f"Visiting profile: {profile_url}")
                 # Wait for the "Connect" button and click it
