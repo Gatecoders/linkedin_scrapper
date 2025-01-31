@@ -1,0 +1,216 @@
+2025-01-28 14:27:15,303 - INFO - Logging in as user...
+2025-01-28 14:27:17,535 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 14:29:35,105 - INFO - Logging in as user...
+2025-01-28 14:29:37,117 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 14:29:37,296 - INFO - Successfully logged in.
+2025-01-28 14:29:38,397 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 14:34:26,480 - INFO - Logging in as user...
+2025-01-28 14:34:28,439 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 14:34:28,633 - INFO - Successfully logged in.
+2025-01-28 14:34:29,405 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 14:34:31,059 - INFO - Visiting profile: https://www.linkedin.com/in/pramod-singh-b284b7a7/
+2025-01-28 14:34:34,358 - WARNING - No 'Connect' button found. Skipping to next profile.
+2025-01-28 14:34:34,358 - INFO - Closing the browser.
+2025-01-28 14:38:21,815 - INFO - Logging in as user...
+2025-01-28 14:38:23,788 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 14:38:23,955 - INFO - Successfully logged in.
+2025-01-28 14:38:24,743 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 14:38:26,383 - INFO - Visiting profile: https://www.linkedin.com/in/pramod-singh-b284b7a7/
+2025-01-28 14:38:29,530 - WARNING - No 'Connect' button found. Skipping to next profile.
+2025-01-28 14:38:29,530 - INFO - Closing the browser.
+2025-01-28 14:51:20,836 - INFO - Logging in as user...
+2025-01-28 14:51:22,732 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 14:51:22,936 - INFO - Successfully logged in.
+2025-01-28 14:51:23,755 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 15:12:05,137 - INFO - Logging in as user...
+2025-01-28 15:12:07,593 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 15:12:07,807 - INFO - Successfully logged in.
+2025-01-28 15:12:08,623 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 15:12:45,797 - INFO - Visiting profile: https://www.linkedin.com/in/pramod-singh-b284b7a7/
+2025-01-28 15:12:46,399 - INFO - Clicked 'Connect' button for pramod-singh-b284b7a7.
+2025-01-28 15:13:27,713 - ERROR - Unable to send connection request.
+2025-01-28 15:13:32,718 - INFO - Closing the browser.
+2025-01-28 15:14:44,358 - INFO - Logging in as user...
+2025-01-28 15:14:46,593 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 15:14:46,806 - INFO - Successfully logged in.
+2025-01-28 15:14:47,650 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 15:14:49,319 - INFO - Visiting profile: https://www.linkedin.com/in/pramod-singh-b284b7a7/
+2025-01-28 15:15:09,339 - WARNING - No 'Connect' button found. Skipping to next profile.
+2025-01-28 15:15:09,339 - INFO - Closing the browser.
+2025-01-28 15:16:15,600 - INFO - Logging in as user...
+2025-01-28 15:16:17,828 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 15:16:18,033 - INFO - Successfully logged in.
+2025-01-28 15:16:23,996 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 15:16:30,682 - INFO - Visiting profile: https://www.linkedin.com/in/pramod-singh-b284b7a7/
+2025-01-28 15:39:34,826 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 15:39:37,118 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 15:39:41,583 - INFO - Successfully logged in.
+2025-01-28 15:39:48,395 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 15:48:11,573 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 15:48:13,892 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 15:48:17,989 - INFO - Successfully logged in.
+2025-01-28 15:48:24,741 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 15:48:42,910 - INFO - Visiting profile: https://www.linkedin.com/in/pragya-srivastava-a2760b21a/
+2025-01-28 15:49:03,404 - WARNING - No 'Connect' button found. Skipping to next profile.
+2025-01-28 15:49:03,405 - INFO - Closing the browser.
+2025-01-28 15:50:29,665 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 15:50:32,005 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 15:50:36,003 - INFO - Successfully logged in.
+2025-01-28 15:50:43,322 - INFO - Visiting profile: https://www.linkedin.com/in/pragya-srivastava-a2760b21a/
+2025-01-28 15:55:15,383 - INFO - Clicked 'Connect' button for pragya-srivastava-a2760b21a.
+2025-01-28 15:55:16,754 - INFO - Connection request sent with a note.
+2025-01-28 15:55:21,759 - INFO - Closing the browser.
+2025-01-28 15:57:10,014 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 15:57:12,397 - INFO - Clicked on 'Sign in with email'.
+2025-01-28 15:57:17,372 - INFO - Successfully logged in.
+2025-01-28 15:57:24,366 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 15:57:44,716 - INFO - Visiting profile: https://www.linkedin.com/in/rakshit-tyagi-1a5361240/
+2025-01-28 15:57:46,819 - INFO - Clicked 'Connect' button for rakshit-tyagi-1a5361240.
+2025-01-28 15:57:48,295 - INFO - Connection request sent with a note.
+2025-01-28 15:57:53,301 - INFO - Closing the browser.
+2025-01-28 17:32:58,811 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 17:33:00,063 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-28 17:33:03,708 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+0   chromedriver                        0x0000000104cb27b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000104caaff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x000000010484bf0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000104827810 chromedriver + 129040
+4   chromedriver                        0x00000001048b78e0 cxxbridge1$string$len + 529048
+5   chromedriver                        0x00000001048ca7c4 cxxbridge1$string$len + 606588
+6   chromedriver                        0x0000000104884e1c cxxbridge1$string$len + 321492
+7   chromedriver                        0x0000000104885a64 cxxbridge1$string$len + 324636
+8   chromedriver                        0x0000000104c7d6d4 cxxbridge1$str$ptr + 2381136
+9   chromedriver                        0x0000000104c809f4 cxxbridge1$str$ptr + 2394224
+10  chromedriver                        0x0000000104c6403c cxxbridge1$str$ptr + 2277048
+11  chromedriver                        0x0000000104c812b4 cxxbridge1$str$ptr + 2396464
+12  chromedriver                        0x0000000104c55c04 cxxbridge1$str$ptr + 2218624
+13  chromedriver                        0x0000000104c9bd60 cxxbridge1$str$ptr + 2505692
+14  chromedriver                        0x0000000104c9bedc cxxbridge1$str$ptr + 2506072
+15  chromedriver                        0x0000000104caac6c cxxbridge1$str$ptr + 2566888
+16  libsystem_pthread.dylib             0x0000000183baaf94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000183ba5d34 thread_start + 8
+
+2025-01-28 17:34:47,445 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 17:34:48,610 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-28 17:35:11,274 - ERROR - Login process timed out. Please ensure you log in within the given time.
+2025-01-28 17:39:09,023 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 17:39:10,247 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-28 17:39:30,721 - ERROR - Login process timed out. Please ensure you log in within the given time.
+2025-01-28 17:45:12,249 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 17:45:13,456 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-28 17:50:13,707 - ERROR - Login process timed out. Please ensure you log in within the given time.
+2025-01-28 17:57:38,957 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 17:57:40,170 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-28 17:58:01,812 - INFO - Login successful. Proceeding with the script...
+2025-01-28 17:58:08,411 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 17:58:24,980 - INFO - Visiting profile: https://www.linkedin.com/in/vipin-goyal-93537287/
+2025-01-28 18:03:25,498 - WARNING - No 'Connect' button found. Skipping to next profile.
+2025-01-28 18:03:25,500 - INFO - Closing the browser.
+2025-01-28 18:07:07,189 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 18:07:08,835 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-28 18:08:14,097 - INFO - Login successful. Proceeding with the script...
+2025-01-28 18:08:20,615 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 18:08:37,314 - INFO - Visiting profile: https://www.linkedin.com/in/vipin-goyal-93537287/
+2025-01-28 18:08:38,825 - INFO - Clicked 'Connect' button for vipin-goyal-93537287.
+2025-01-28 18:08:40,439 - INFO - Connection request sent with a note.
+2025-01-28 18:08:45,441 - INFO - Closing the browser.
+2025-01-28 18:27:50,362 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-28 18:27:51,706 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-28 18:28:15,178 - INFO - Login successful. Proceeding with the script...
+2025-01-28 18:28:21,827 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-28 18:28:38,603 - INFO - Visiting profile: https://www.linkedin.com/in/vipin-goyal-93537287/
+2025-01-28 18:28:39,218 - INFO - Clicked 'Connect' button for vipin-goyal-93537287.
+2025-01-28 18:38:39,555 - ERROR - Unable to send connection request.
+2025-01-28 18:38:44,558 - INFO - Closing the browser.
+2025-01-29 12:16:28,805 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-29 12:16:30,048 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-29 12:17:21,243 - INFO - Login successful. Proceeding with the script...
+2025-01-29 12:17:27,879 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-29 12:17:50,370 - INFO - Visiting profile: https://www.linkedin.com/in/siddhi-sharma-564447166/
+2025-01-29 12:17:51,713 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 12:24:05,127 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-29 12:24:06,567 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-29 12:25:08,202 - INFO - Login successful. Proceeding with the script...
+2025-01-29 12:25:14,640 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-29 12:25:31,381 - INFO - Visiting profile: https://www.linkedin.com/in/siddhi-sharma-564447166/
+2025-01-29 12:25:32,017 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 12:25:53,855 - ERROR - Unable to send connection request.
+2025-01-29 12:25:58,861 - INFO - Closing the browser.
+2025-01-29 12:42:01,058 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-29 12:42:02,240 - INFO - Please log in manually. Waiting for you to complete the login process.
+2025-01-29 12:42:25,321 - INFO - Login successful. Proceeding with the script...
+2025-01-29 12:42:31,787 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-29 12:42:49,827 - INFO - Visiting profile: https://www.linkedin.com/in/siddhi-sharma-564447166/
+2025-01-29 12:42:50,552 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 12:43:12,007 - ERROR - Unable to send connection request.
+2025-01-29 12:43:17,014 - INFO - Closing the browser.
+2025-01-29 12:45:56,283 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-29 12:45:58,526 - INFO - Clicked on 'Sign in with email'.
+2025-01-29 12:46:03,376 - INFO - Successfully logged in.
+2025-01-29 12:46:05,127 - INFO - Visiting profile: https://www.linkedin.com/in/siddhi-sharma-564447166/
+2025-01-29 12:46:06,181 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 12:46:27,498 - ERROR - Unable to send connection request.
+2025-01-29 12:46:32,504 - INFO - Closing the browser.
+2025-01-29 12:48:32,570 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-29 12:48:35,027 - INFO - Clicked on 'Sign in with email'.
+2025-01-29 12:48:39,601 - INFO - Successfully logged in.
+2025-01-29 12:48:41,355 - INFO - Visiting profile: https://www.linkedin.com/in/siddhi-sharma-564447166/
+2025-01-29 12:48:41,998 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 12:48:53,066 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 12:48:58,613 - INFO - Closing the browser.
+2025-01-29 12:54:06,487 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-29 12:54:08,647 - INFO - Clicked on 'Sign in with email'.
+2025-01-29 12:54:13,993 - INFO - Successfully logged in.
+2025-01-29 12:54:15,672 - INFO - Visiting profile: https://www.linkedin.com/in/siddhi-sharma-564447166/
+2025-01-29 12:54:16,416 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 12:54:27,436 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 12:54:32,993 - INFO - Closing the browser.
+2025-01-29 14:42:54,794 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-29 14:42:57,153 - INFO - Clicked on 'Sign in with email'.
+2025-01-29 17:31:54,875 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-29 17:31:57,336 - INFO - Clicked on 'Sign in with email'.
+2025-01-29 17:32:03,269 - INFO - No two-factor authentication found. Proceeding with login.
+2025-01-29 17:32:03,269 - INFO - Successfully logged in.
+2025-01-29 17:32:05,053 - INFO - Visiting profile: https://www.linkedin.com/in/siddhi-sharma-564447166/
+2025-01-29 17:32:05,743 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 17:32:21,136 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-29 17:32:26,186 - INFO - Closing the browser.
+2025-01-30 10:19:24,500 - INFO - Logging in as prikverma2000@gmail.com...
+2025-01-30 10:19:26,853 - INFO - Clicked on 'Sign in with email'.
+2025-01-30 10:19:29,556 - INFO - Two-factor authentication required. Please complete the login process.
+2025-01-30 10:19:48,747 - INFO - Login code submitted. Proceeding with login.
+2025-01-30 10:19:48,747 - INFO - Successfully logged in.
+2025-01-30 10:19:51,302 - INFO - Visiting profile: https://www.linkedin.com/in/siddhi-sharma-564447166/
+2025-01-30 10:19:52,510 - INFO - Clicked 'Connect' button for siddhi-sharma-564447166.
+2025-01-31 15:27:00,830 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-31 15:27:03,662 - INFO - Clicked on 'Sign in with email'.
+2025-01-31 15:27:07,411 - INFO - No two-factor authentication found. Proceeding with login.
+2025-01-31 15:27:07,412 - INFO - Successfully logged in.
+2025-01-31 15:27:14,502 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-31 15:27:34,736 - INFO - Visiting profile: https://www.linkedin.com/in/ayushkasara/
+2025-01-31 15:27:35,507 - INFO - Clicked 'Connect' button for ayushkasara.
+2025-01-31 15:27:46,392 - ERROR - Failed to add note, trying without note.
+2025-01-31 15:27:46,588 - INFO - Clicked 'Connect' button for ayushkasara.
+2025-01-31 15:28:30,803 - ERROR - Message button not found.
+2025-01-31 15:28:35,808 - INFO - Closing the browser.
+2025-01-31 15:32:56,662 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-31 15:32:58,834 - INFO - Clicked on 'Sign in with email'.
+2025-01-31 15:33:02,456 - INFO - No two-factor authentication found. Proceeding with login.
+2025-01-31 15:33:02,457 - INFO - Successfully logged in.
+2025-01-31 15:33:09,041 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-31 15:33:25,324 - INFO - Closing the browser.
+2025-01-31 15:36:21,785 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-31 15:36:23,939 - INFO - Clicked on 'Sign in with email'.
+2025-01-31 15:36:28,894 - INFO - No two-factor authentication found. Proceeding with login.
+2025-01-31 15:36:28,894 - INFO - Successfully logged in.
+2025-01-31 15:36:35,568 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-31 15:36:50,072 - INFO - Closing the browser.
+2025-01-31 15:38:21,937 - INFO - Logging in as glucosecho482@gmail.com...
+2025-01-31 15:38:24,376 - INFO - Clicked on 'Sign in with email'.
+2025-01-31 15:38:31,543 - INFO - No two-factor authentication found. Proceeding with login.
+2025-01-31 15:38:31,543 - INFO - Successfully logged in.
+2025-01-31 15:38:38,372 - INFO - Visiting Connections Page: https://www.linkedin.com/mynetwork/invite-connect/connections
+2025-01-31 15:38:51,972 - INFO - Closing the browser.
