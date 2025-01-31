@@ -5,6 +5,8 @@
 ## Description
 This Python script allows you to scrape your LinkedIn connection profiles and send connection requests to multiple users. The script uses LinkedIn's web interface to automate the process, and it can work in both automatic and manual login modes.
 
+**Important Note:** The script relies on XPath expressions to identify elements on the LinkedIn page. These XPaths may change over time as LinkedIn updates its page structure. You may need to update the XPaths accordingly to ensure the script continues to work.
+
 ## Features
 - Scrapes Your LinkedIn connection profiles.
 - Sends connection requests automatically.
