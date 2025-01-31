@@ -5,9 +5,6 @@ import linkedin_script
 
 load_dotenv()
 
-# USER='glucosecho482@gmail.com'
-# PASSWORD='Perceptiviti@1234'
-
 USER = os.getenv('EMAIL')
 PASSWORD = os.getenv(f"PASSWORD")
 LOGIN_TYPE = int(os.getenv(f"LOGIN_TYPE", 0))
