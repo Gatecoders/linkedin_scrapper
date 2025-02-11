@@ -8,7 +8,7 @@ This Python script allows you to scrape your LinkedIn connection profiles and se
 **Important Note:** The script relies on XPath expressions to identify elements on the LinkedIn page. These XPaths may change over time as LinkedIn updates its page structure. You may need to update the XPaths accordingly to ensure the script continues to work.
 
 ## Features
-- Scrapes Your LinkedIn connection profiles.
+- Scrapes Your LinkedIn connection profiles and their contact info.
 - Sends connection requests automatically.
 - Logs actions for debugging.
 - Configurable login options (automatic or manual).
